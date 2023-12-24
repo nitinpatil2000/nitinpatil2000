@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.atomisystems.com/uploads/2021/07/Animation-software.png" alt="">
-
+<img src="https://cdn.atomisystems.com/uploads/2021/07/Animation-software.png" alt="Animation-software" width="300">
 
 - 🌱 I’m currently learning **Frontend & Backend Development**
 
